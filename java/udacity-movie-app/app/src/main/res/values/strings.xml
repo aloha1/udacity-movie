@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <string name="title_main_activity">Pop Movie</string>
+    <string name="title_detail_activity">Movie Detail</string>
+
+    <string name="sort_by_rating">Sort By Rating</string>
+    <string name="sort_by_popularity">Sort By Popularity</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="pref_sort_order_label">Sort Order</string>
+    <string name="pref_sort_order_key">sortOrder</string>
+
+    <string name="pref_most_popular">Most Popular</string>
+    <string name="pref_highest_rated">Top Rated</string>
+    <string name="pref_favorite">Favorite</string>
+
+    <string name="mark_favorite">Mark Favorite</string>
+    <string name="delete_favorite">Delete Favorite</string>
+
+<!--    Selected Items-->
+    <string name="favorite">Favorite</string>
+    <string name="popular">Most Popular</string>
+    <string name="top_rate">Top Rated</string>
+    <string name="refrsh_label">Refresh</string>
+    <string name="settings">Sorted by</string>
+
+    <string name="play_trailer">Trailer</string>
+    <string name="trailer_label">Trailers</string>
+    <string name="review_label">Reviews</string>
+    <string name="comment_label">Open review</string>
+</resources>
